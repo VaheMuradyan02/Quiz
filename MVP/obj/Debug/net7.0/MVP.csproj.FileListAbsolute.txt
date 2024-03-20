@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Q&A Quest\MVP\bin\Debug\net7.0\MVP.deps.json
+C:\Users\user\source\repos\Q&A Quest\MVP\bin\Debug\net7.0\MVP.dll
+C:\Users\user\source\repos\Q&A Quest\MVP\bin\Debug\net7.0\MVP.pdb
+C:\Users\user\source\repos\Q&A Quest\MVP\obj\Debug\net7.0\MVP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Q&A Quest\MVP\obj\Debug\net7.0\MVP.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Q&A Quest\MVP\obj\Debug\net7.0\MVP.AssemblyInfo.cs
+C:\Users\user\source\repos\Q&A Quest\MVP\obj\Debug\net7.0\MVP.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Q&A Quest\MVP\obj\Debug\net7.0\MVP.dll
+C:\Users\user\source\repos\Q&A Quest\MVP\obj\Debug\net7.0\refint\MVP.dll
+C:\Users\user\source\repos\Q&A Quest\MVP\obj\Debug\net7.0\MVP.pdb
+C:\Users\user\source\repos\Q&A Quest\MVP\obj\Debug\net7.0\ref\MVP.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Answer_The_Questions.props" />
+</Project>

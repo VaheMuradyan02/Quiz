@@ -31,7 +31,7 @@ namespace Q_A_Quest
 
         int _trueAnswer;
         int _questionNumber = 1;
-        int _score;
+        int _score; 
         int _count = 0;
 
         public Form1()

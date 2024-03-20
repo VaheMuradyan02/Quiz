@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Answer_The_Questions", "Answer_The_Questions\Answer_The_Questions.csproj", "{5BADC444-4B3A-4CC4-BC8B-DA4F7202304B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVP", "..\Q&A Quest\MVP\MVP.csproj", "{CDA00602-57DD-47B1-B895-EC447169FC97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BADC444-4B3A-4CC4-BC8B-DA4F7202304B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BADC444-4B3A-4CC4-BC8B-DA4F7202304B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BADC444-4B3A-4CC4-BC8B-DA4F7202304B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BADC444-4B3A-4CC4-BC8B-DA4F7202304B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDA00602-57DD-47B1-B895-EC447169FC97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDA00602-57DD-47B1-B895-EC447169FC97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDA00602-57DD-47B1-B895-EC447169FC97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDA00602-57DD-47B1-B895-EC447169FC97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5D1ADF6-DD02-40AA-9044-CD047AAF3DD4}
+	EndGlobalSection
+EndGlobal
