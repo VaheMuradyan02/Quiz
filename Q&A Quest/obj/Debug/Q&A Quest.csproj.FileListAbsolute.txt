@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\Q&A Quest\Q&A Quest\bin\Debug\Q&A Quest.exe.config
+C:\Users\user\source\repos\Q&A Quest\Q&A Quest\bin\Debug\Q&A Quest.exe
+C:\Users\user\source\repos\Q&A Quest\Q&A Quest\bin\Debug\Q&A Quest.pdb
+C:\Users\user\source\repos\Q&A Quest\Q&A Quest\obj\Debug\Q&A Quest.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Q&A Quest\Q&A Quest\obj\Debug\Q_A_Quest.Form1.resources
+C:\Users\user\source\repos\Q&A Quest\Q&A Quest\obj\Debug\Q_A_Quest.Properties.Resources.resources
+C:\Users\user\source\repos\Q&A Quest\Q&A Quest\obj\Debug\Q&A Quest.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Q&A Quest\Q&A Quest\obj\Debug\Q&A Quest.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Q&A Quest\Q&A Quest\obj\Debug\Q&A Quest.exe
+C:\Users\user\source\repos\Q&A Quest\Q&A Quest\obj\Debug\Q&A Quest.pdb
+C:\Users\user\source\repos\Q&A Quest\Q&A Quest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\source\repos\Q&A Quest\Q&A Quest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\source\repos\Q&A Quest\Q&A Quest\obj\Debug\Q&A Quest.csproj.CopyComplete
